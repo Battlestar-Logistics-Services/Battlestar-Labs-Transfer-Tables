@@ -1,0 +1,22 @@
+{
+  "objects": [
+    {
+      "identifier": "BattlestarLabsTransferTableMAIN100x5",
+      "metadata": {
+        "name": "BattlestarLabsTransferTableMAIN100x5",
+        "description": "Battlestar Labs 100ft 5-Stall Transfer Table",
+        "tags": [],
+        "credits": "Battlestar"
+      },
+      "definition": {
+        "kind": "Scenery",
+        "modelIdentifier": "BST_TransferTable_100ft_5Stall",
+        "components": [
+          "BattlestarLabs.TransferTable.TransferTableController, BattlestarLabs.TransferTable",
+          "BattlestarLabs.TransferTable.TransferTableGraphAdapter, BattlestarLabs.TransferTable",
+          "BattlestarLabs.TransferTable.TransferTableInput, BattlestarLabs.TransferTable"
+        ]
+      }
+    }
+  ]
+}

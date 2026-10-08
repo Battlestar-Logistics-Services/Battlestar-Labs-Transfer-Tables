@@ -1,0 +1,7 @@
+F:\RAILROADER MODIFIED TEST FILES\Battlestar Labs Transfer Tables\obj\Release\BattlestarLabs.TransferTable.csproj.AssemblyReference.cache
+F:\RAILROADER MODIFIED TEST FILES\Battlestar Labs Transfer Tables\obj\Release\BattlestarLabs.TransferTable.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAILROADER MODIFIED TEST FILES\Battlestar Labs Transfer Tables\obj\Release\BattlestarLabs.TransferTable.csproj.CoreCompileInputs.cache
+F:\RAILROADER MODIFIED TEST FILES\Battlestar Labs Transfer Tables\bin\Release\BattlestarLabs.TransferTable.dll
+F:\RAILROADER MODIFIED TEST FILES\Battlestar Labs Transfer Tables\bin\Release\BattlestarLabs.TransferTable.pdb
+F:\RAILROADER MODIFIED TEST FILES\Battlestar Labs Transfer Tables\obj\Release\BattlestarLabs.TransferTable.dll
+F:\RAILROADER MODIFIED TEST FILES\Battlestar Labs Transfer Tables\obj\Release\BattlestarLabs.TransferTable.pdb
