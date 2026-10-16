@@ -1,0 +1,16 @@
+{
+  "Id": "BattlestarLabs.TransferTable",
+  "DisplayName": "Battlestar Labs Transfer Table",
+  "Author": "Alina Battlestar / Chewie / Battlestar Locomotive Works / Battlestar Logistics Services",
+  "Version": "1.0.0",
+  "EntryMethod": "BattlestarLabs.TransferTable.Main.Load",
+  "AssemblyName": "BattlestarLabs.TransferTable.dll",
+  "Requirements": [
+    "FUSE"
+  ],
+  "LoadAfter": [
+    "FUSE"
+  ],
+  "HomePage": "https://discord.gg/XpEne9Cdje",
+  "Repository": "https://github.com/AlinaBattlestar/Battlestar-Labs-Transfer-Tables"
+}
